@@ -14,9 +14,9 @@ Linguagem usada:
 
 Como funciona: 
 
-1 - O script cria uma conta Crunchyroll utilizando um e-mail fictício.
-2 - Ativa o teste gratuito de 7 dias da assinatura Mega Fan.
-3 - Armazena o email e a senha em um arquivo .txt
+1 - O script cria uma conta Crunchyroll utilizando um e-mail fictício.<br>
+2 - Ativa o teste gratuito de 7 dias da assinatura Mega Fan.<br>
+3 - Armazena o email e a senha em um arquivo ".txt". <br>
 
 ##
 
