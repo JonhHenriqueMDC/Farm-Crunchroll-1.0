@@ -20,6 +20,10 @@ Como funciona:
 
 ##
 
+Novo Script: https://github.com/JonhHenriqueMDC/Farm-Crunchroll-2.0
+
+##
+
 ⚠️ Aviso legal:
 
 Este projeto foi criado apenas para fins educacionais. O uso indevido pode violar os termos de serviço da Crunchyroll.
